@@ -3,6 +3,9 @@
 # Professor de programação
 # www.parisotto.net
 #modificado por G
+
+# OK Prof. Parisotto
+
 casas = []
 i = 1
 while i <= 9:
